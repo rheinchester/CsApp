@@ -1,0 +1,11 @@
+C:\Users\my\Desktop\projects\CsCodes\CsApp\bin\Debug\netcoreapp2.2\CsApp.deps.json
+C:\Users\my\Desktop\projects\CsCodes\CsApp\bin\Debug\netcoreapp2.2\CsApp.runtimeconfig.json
+C:\Users\my\Desktop\projects\CsCodes\CsApp\bin\Debug\netcoreapp2.2\CsApp.runtimeconfig.dev.json
+C:\Users\my\Desktop\projects\CsCodes\CsApp\bin\Debug\netcoreapp2.2\CsApp.dll
+C:\Users\my\Desktop\projects\CsCodes\CsApp\bin\Debug\netcoreapp2.2\CsApp.pdb
+C:\Users\my\Desktop\projects\CsCodes\CsApp\obj\Debug\netcoreapp2.2\CsApp.csprojAssemblyReference.cache
+C:\Users\my\Desktop\projects\CsCodes\CsApp\obj\Debug\netcoreapp2.2\CsApp.csproj.CoreCompileInputs.cache
+C:\Users\my\Desktop\projects\CsCodes\CsApp\obj\Debug\netcoreapp2.2\CsApp.AssemblyInfoInputs.cache
+C:\Users\my\Desktop\projects\CsCodes\CsApp\obj\Debug\netcoreapp2.2\CsApp.AssemblyInfo.cs
+C:\Users\my\Desktop\projects\CsCodes\CsApp\obj\Debug\netcoreapp2.2\CsApp.dll
+C:\Users\my\Desktop\projects\CsCodes\CsApp\obj\Debug\netcoreapp2.2\CsApp.pdb
