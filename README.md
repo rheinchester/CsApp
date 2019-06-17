@@ -1,6 +1,5 @@
 # CsApp
-This is my first c# app. Inspired by Brad traversy. 
-[Brad traversy](https://github.com/bradtraversy/)
+This is my first c# app. Inspired by [Brad traversy](https://github.com/bradtraversy/). 
 # About
 Basically it is a game where users interact with a cli to guess the right right number.
 # Intent
